@@ -39,8 +39,8 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: virbickt
     github: virbickt
+    linkedin: jekyll
 
 # Set this to true to get LaTeX math equation support
 use_math: true
@@ -50,6 +50,8 @@ show_description: true
 
 # Set this to true to display image previews on home page, if they exist
 show_image: false
+
+show_excerpts: true
 
 # Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
 annotations: false

@@ -40,13 +40,13 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     github: virbickt
-    linkedin: jekyll
+    linkedin: teofilius-virbickas
 
 # Set this to true to get LaTeX math equation support
 use_math: true
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
-show_description: true
+show_description: false
 
 # Set this to true to display image previews on home page, if they exist
 show_image: false
@@ -103,7 +103,7 @@ plugins:
 paginate: 15
 paginate_path: /page:num/
 
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 
 titles_from_headings:
   enabled:     true

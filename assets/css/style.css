@@ -323,7 +323,7 @@ table td { border: 1px solid #e8e8e8; }
 
 /*-----------------------------------*/
 /*--- IMPORT STYLES FOR FASTPAGES ---*/
-h1 { font-size: 35px; font-weight: 800; }
+h1 { font-size: 35px !important; font-weight: 800 !important; }
 
 .inner_cell { color: #585858; }
 

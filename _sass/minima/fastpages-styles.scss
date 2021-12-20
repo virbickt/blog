@@ -39,6 +39,7 @@ img.emoji{
 
 .post-link{
     font-weight: normal;
+    margin-left: -2px !important;
 }
 
 // change padding of headings
@@ -72,7 +73,7 @@ pre {
 }
 
 // make sure the post title doesn't have too much spacing
-.post-title { margin-top: .5rem !important; }
+.post-title { margin-top: .5rem !important; margin-left: -4px !important; }
 
 li {
   h3, h4 {

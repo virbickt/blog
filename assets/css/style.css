@@ -323,6 +323,8 @@ table td { border: 1px solid #e8e8e8; }
 
 /*-----------------------------------*/
 /*--- IMPORT STYLES FOR FASTPAGES ---*/
+.excerpts { font-size: 16px; }
+
 .site-title { font-size: 1rem; font-weight: 400; letter-spacing: 0px; margin-bottom: 0; float: left; font-family: 'Inter', 'Noto Sans', sans-serif !important; }
 
 .site-header { border-top: 0px solid #424242; border-bottom: 0px solid #e8e8e8; }

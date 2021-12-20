@@ -74,8 +74,8 @@ include:
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:
   github: false
-  binder: true
-  colab: false
+  binder: false
+  colab: true
   deepnote: false
 
 # Escape HTML in post descriptions

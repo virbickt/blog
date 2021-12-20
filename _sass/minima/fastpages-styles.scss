@@ -65,9 +65,10 @@ img.emoji{
    color: #515151;
 }
 
-.post-link{
-    font-weight: normal;
-    margin-left: -2px !important;
+.post-link {
+  color: black !important;
+  /* font-weight: normal; */
+  margin-left: -2px !important;
 }
 
 // change padding of headings
@@ -90,7 +91,7 @@ p {
 }
 
 h1, h2, h3, h4 {
-    font-weight: normal !important;
+    font-weight: normal;
     margin-bottom:2.5rem !important;  
     code {
       font-size: 100%;

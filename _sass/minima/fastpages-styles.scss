@@ -1,6 +1,11 @@
 //Default Overrides For Styles In Minima 
 // If you wish to override any of this CSS, do so in _sass/minima/custom-styles.css
 
+.post-meta {
+  font-size: 14px;
+  color: #D1D5DB;
+}
+
 h1 {
   font-size: 35px !important;
   font-weight: 800 !important;
@@ -111,8 +116,8 @@ li {
   margin-bottom:.05rem !important;
   }
   .post-meta-description {
-    color: rgb(88, 88, 88);
-    font-size: 15px;
+    color: #9CA3AF;
+    font-size: 16px;
     margin-top:.05rem !important;
     margin-bottom:.05rem !important;
   }

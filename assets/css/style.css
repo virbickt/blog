@@ -323,7 +323,9 @@ table td { border: 1px solid #e8e8e8; }
 
 /*-----------------------------------*/
 /*--- IMPORT STYLES FOR FASTPAGES ---*/
-.excerpts { font-size: 16px; }
+h1 { font-size: 35px; font-weight: 800; }
+
+.inner_cell { color: #585858; }
 
 .site-title { font-size: 1rem; font-weight: 400; letter-spacing: 0px; margin-bottom: 0; float: left; font-family: 'Inter', 'Noto Sans', sans-serif !important; }
 
@@ -350,8 +352,6 @@ h1 { margin-top: 2.5rem !important; }
 h2 { margin-top: 2rem !important; }
 
 h3, h4 { margin-top: 1.5rem !important; }
-
-li { font-size: 16px; font-family: 'Inter', 'Noto Sans', sans-serif !important; }
 
 p { font-size: 16px; margin-top: 1rem !important; margin-bottom: 1rem !important; }
 
